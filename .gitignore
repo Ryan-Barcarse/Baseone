@@ -1,0 +1,17 @@
+# Python virtual environment
+
+.venv/
+
+# Python generated files
+
+__pycache__/
+*.pyc
+
+# Secrets and local config
+.venv/
+.env
+.env.*
+
+# Local files
+logs/
+baseline.json
