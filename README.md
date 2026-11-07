@@ -1,7 +1,7 @@
 
 # BaseOne
 
-BaseOne is a Python-based security monitoring system designed to detect suspicious activity and send real-time notifications to a mobile device.
+BaseOne is a Python based security monitoring system designed to detect suspicious activity and send real time notifications to a mobile device.
 
 ## Future Features
 
